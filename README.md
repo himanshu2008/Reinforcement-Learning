@@ -10,7 +10,7 @@ Python packages used are gym, numpy and matplotlib.
 ![Reinforcement Learning MountainCar-v0](https://raw.githubusercontent.com/himanshu2008/Reinforcement-Learning/master/Images/RL.png)
 
 
-The second one uses Deep Q-Learning and Deep Q Networks, which I used to buils my own DON agent in python.
+The second one uses Deep Q-Learning and Deep Q Networks, which I used to buils my own DQN agent in python.
 Python packages used numpy, pillow, open-cv, matplotlib, pickle, time.
 
 
